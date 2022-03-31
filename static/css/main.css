@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.flexbox-container {
+    display: flex;
+    
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
